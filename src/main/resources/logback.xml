@@ -1,0 +1,5 @@
+<configuration>
+    <!-- 设置 Curator 的日志级别为 WARN -->
+    <logger name="org.apache.curator" level="WARN"/>
+    <logger name="org.apache.zookeeper" level="WARN"/>
+</configuration>
